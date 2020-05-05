@@ -270,3 +270,29 @@
 17:49:29,484  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
 17:49:29,485  INFO pages.UserHomePage<strong>{1}</strong>:40 - UserHomePage - Sending Hello user name
 17:49:29,485  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser
+11:47:25,710  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+11:47:25,733  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+11:47:25,739  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+11:47:49,662  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+11:47:49,662  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+11:47:49,698  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+11:47:50,898  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+11:47:50,981  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+11:47:50,982  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+11:47:51,049  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+11:47:51,050  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+11:47:51,631  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+11:47:51,632  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+11:47:51,633  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+11:53:48,900  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+11:53:48,903  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+11:53:48,903  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+11:54:09,236  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+11:54:09,237  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+11:54:09,237  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+12:11:09,128  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+12:11:09,131  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+12:11:09,142  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+12:11:26,541  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+12:11:26,542  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+12:11:26,543  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected

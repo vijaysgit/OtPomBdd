@@ -1,64 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="54429" started-at="2020-05-04T17:48:39 IST" finished-at="2020-05-04T17:49:34 IST">
+  <suite name="Suite" duration-ms="13" started-at="2020-05-05T11:58:48 IST" finished-at="2020-05-05T11:58:48 IST">
     <groups>
-      <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.TestRunner@11438d26]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
-      </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="54429" started-at="2020-05-04T17:48:39 IST" finished-at="2020-05-04T17:49:34 IST">
-      <class name="testRunner.TestRunner">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:testRunner.TestRunner@11438d26]" name="startReport" is-config="true" duration-ms="324" started-at="2020-05-04T17:48:39 IST" finished-at="2020-05-04T17:48:40 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testRunner.TestRunner@11438d26]" name="setUpClass" is-config="true" duration-ms="216" started-at="2020-05-04T17:48:40 IST" finished-at="2020-05-04T17:48:40 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.TestRunner@11438d26]" name="runScenario" duration-ms="26207" started-at="2020-05-04T17:48:40 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-05-04T17:49:07 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["User visit the main page"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Amazon Login"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.TestRunner@11438d26]" name="runScenario" duration-ms="26702" started-at="2020-05-04T17:49:07 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-05-04T17:49:33 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["User login to the account"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Amazon Login"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunner.TestRunner@11438d26]" name="tearDownClass" is-config="true" duration-ms="4" started-at="2020-05-04T17:49:33 IST" finished-at="2020-05-04T17:49:33 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownClass -->
-        <test-method status="PASS" signature="stopReport()[pri:0, instance:testRunner.TestRunner@11438d26]" name="stopReport" is-config="true" duration-ms="525" started-at="2020-05-04T17:49:33 IST" finished-at="2020-05-04T17:49:34 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- stopReport -->
-      </class> <!-- testRunner.TestRunner -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    <test name="testRunner.TestRunner" duration-ms="13" started-at="2020-05-05T11:58:48 IST" finished-at="2020-05-05T11:58:48 IST">
+    </test> <!-- testRunner.TestRunner -->
+  </suite> <!-- Suite -->
 </testng-results>
