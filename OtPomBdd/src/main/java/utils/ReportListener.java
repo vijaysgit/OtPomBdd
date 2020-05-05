@@ -29,7 +29,7 @@ public class ReportListener {
 		extent.setSystemInfo("Name", "Amazon Test");
 		extent.setSystemInfo("Company", "Orexel");
 		extent.setSystemInfo("Tester", "Vikosh");
-		
+		extent.setSystemInfo("Team", "Testing");
 	}
 	
 		
