@@ -1,0 +1,272 @@
+14:35:12,491  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+14:35:12,493  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+14:35:12,495  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+14:35:15,235  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+14:35:15,236  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+14:35:15,236  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+14:35:20,287  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+14:35:20,288  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:35:20,290  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:20,309  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+14:35:20,310  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:35:20,323  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+14:35:20,324  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:35:20,330  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:20,401  INFO helpers.WaitHelper<strong>{1}</strong>:57 - WaitForTextInElement over
+14:35:20,417  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
+14:35:20,419  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:35:20,775  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:35:20,782  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser
+14:35:23,168  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+14:35:23,169  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+14:35:23,170  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+14:35:25,336  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+14:35:25,337  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+14:35:25,338  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+14:35:29,650  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+14:35:29,651  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:35:29,652  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:29,653  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+14:35:29,653  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:35:29,737  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:29,737  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+14:35:29,738  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:35:29,749  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:35:30,271  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:35:30,272  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:30,272  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+14:35:31,787  INFO pages.MainPage<strong>{1}</strong>:48 - Main Page - Signin link clicked
+14:35:31,788  INFO pages.EmailLoginPage<strong>{1}</strong>:24 - Logger loaded for EmailLoginPage
+14:35:31,788  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:35:31,788  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:31,789  INFO pages.EmailLoginPage<strong>{1}</strong>:38 - EmailLoginPage - Loaded
+14:35:31,789  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:35:31,793  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:35:32,087  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:35:32,088  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+14:35:32,326  INFO pages.EmailLoginPage<strong>{1}</strong>:45 - EmailLoginPage - Email entered
+14:35:32,327  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+14:35:34,441  INFO pages.EmailLoginPage<strong>{1}</strong>:50 - EmailLoginPage - Continue button clicked
+14:35:34,443  INFO pages.PasswordLoginPage<strong>{1}</strong>:25 - Logger loaded for PasswordLoginPage
+14:35:34,443  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:35:34,444  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:34,445  INFO pages.PasswordLoginPage<strong>{1}</strong>:38 - PasswordLoginPage - Loaded
+14:35:34,445  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:35:34,468  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:35:34,807  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:35:34,808  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+14:35:34,898  INFO pages.PasswordLoginPage<strong>{1}</strong>:44 - PasswordLoginPage - Password entered
+14:35:34,898  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+14:35:38,232  INFO pages.PasswordLoginPage<strong>{1}</strong>:49 - PasswordLoginPage - Submit button clicked
+14:35:38,233  INFO pages.UserHomePage<strong>{1}</strong>:24 - Logger loaded for UserHomePage
+14:35:38,233  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:35:38,233  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:35:38,234  INFO pages.UserHomePage<strong>{1}</strong>:34 - UserHomePage - Loaded
+14:35:38,234  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:35:38,246  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:35:38,650  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:35:38,683  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
+14:35:38,683  INFO pages.UserHomePage<strong>{1}</strong>:40 - UserHomePage - Sending Hello user name
+14:35:38,683  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser
+14:56:30,013  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+14:56:30,016  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+14:56:30,017  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+14:56:33,271  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+14:56:33,271  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+14:56:33,271  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+14:56:36,824  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+14:56:36,828  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:56:36,830  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:56:37,473  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+14:56:37,473  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:56:43,586  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+14:56:43,587  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+14:56:43,589  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+14:56:45,763  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+14:56:45,763  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+14:56:45,765  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+14:56:48,287  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+14:56:48,288  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:56:48,288  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:56:48,288  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+14:56:48,289  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:56:48,305  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:56:48,306  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+14:56:48,306  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:56:48,310  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:56:48,923  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:56:48,930  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:56:48,930  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+14:56:50,373  INFO pages.MainPage<strong>{1}</strong>:48 - Main Page - Signin link clicked
+14:56:50,374  INFO pages.EmailLoginPage<strong>{1}</strong>:24 - Logger loaded for EmailLoginPage
+14:56:50,375  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:56:50,375  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:56:50,376  INFO pages.EmailLoginPage<strong>{1}</strong>:38 - EmailLoginPage - Loaded
+14:56:50,376  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:56:50,380  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:56:50,695  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:56:50,697  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+14:56:50,904  INFO pages.EmailLoginPage<strong>{1}</strong>:45 - EmailLoginPage - Email entered
+14:56:50,904  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+14:56:53,091  INFO pages.EmailLoginPage<strong>{1}</strong>:50 - EmailLoginPage - Continue button clicked
+14:56:53,092  INFO pages.PasswordLoginPage<strong>{1}</strong>:25 - Logger loaded for PasswordLoginPage
+14:56:53,094  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:56:53,105  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:56:53,105  INFO pages.PasswordLoginPage<strong>{1}</strong>:38 - PasswordLoginPage - Loaded
+14:56:53,106  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:56:53,198  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:56:53,518  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:56:53,519  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+14:56:53,710  INFO pages.PasswordLoginPage<strong>{1}</strong>:44 - PasswordLoginPage - Password entered
+14:56:53,710  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+14:56:57,236  INFO pages.PasswordLoginPage<strong>{1}</strong>:49 - PasswordLoginPage - Submit button clicked
+14:56:57,237  INFO pages.UserHomePage<strong>{1}</strong>:24 - Logger loaded for UserHomePage
+14:56:57,237  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+14:56:57,237  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+14:56:57,238  INFO pages.UserHomePage<strong>{1}</strong>:34 - UserHomePage - Loaded
+14:56:57,238  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+14:56:57,242  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+14:56:57,664  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+14:56:57,800  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
+14:56:57,800  INFO pages.UserHomePage<strong>{1}</strong>:40 - UserHomePage - Sending Hello user name
+14:56:57,800  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser
+15:52:03,137  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+15:52:03,172  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+15:52:03,187  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+15:52:10,900  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+15:52:10,916  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+15:52:10,918  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+15:52:15,017  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+15:52:15,042  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+15:52:15,043  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:15,080  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+15:52:15,080  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+15:52:15,100  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+15:52:15,100  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+15:52:15,117  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:15,411  INFO helpers.WaitHelper<strong>{1}</strong>:57 - WaitForTextInElement over
+15:52:15,427  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
+15:52:15,428  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+15:52:15,972  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+15:52:16,017  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser
+15:52:20,216  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+15:52:20,216  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+15:52:20,231  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+15:52:25,734  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+15:52:25,734  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+15:52:25,734  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+15:52:28,971  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+15:52:28,972  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+15:52:28,972  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:28,972  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+15:52:28,972  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+15:52:28,986  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:28,987  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+15:52:28,987  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+15:52:28,995  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+15:52:29,376  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+15:52:29,377  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:29,379  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+15:52:32,495  INFO pages.MainPage<strong>{1}</strong>:48 - Main Page - Signin link clicked
+15:52:32,495  INFO pages.EmailLoginPage<strong>{1}</strong>:24 - Logger loaded for EmailLoginPage
+15:52:32,503  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+15:52:32,505  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:32,506  INFO pages.EmailLoginPage<strong>{1}</strong>:38 - EmailLoginPage - Loaded
+15:52:32,506  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+15:52:32,523  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+15:52:32,890  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+15:52:32,989  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+15:52:33,271  INFO pages.EmailLoginPage<strong>{1}</strong>:45 - EmailLoginPage - Email entered
+15:52:33,272  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+15:52:35,672  INFO pages.EmailLoginPage<strong>{1}</strong>:50 - EmailLoginPage - Continue button clicked
+15:52:35,674  INFO pages.PasswordLoginPage<strong>{1}</strong>:25 - Logger loaded for PasswordLoginPage
+15:52:35,674  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+15:52:35,674  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:35,675  INFO pages.PasswordLoginPage<strong>{1}</strong>:38 - PasswordLoginPage - Loaded
+15:52:35,676  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+15:52:35,683  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+15:52:36,014  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+15:52:36,014  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+15:52:36,136  INFO pages.PasswordLoginPage<strong>{1}</strong>:44 - PasswordLoginPage - Password entered
+15:52:36,137  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+15:52:39,208  INFO pages.PasswordLoginPage<strong>{1}</strong>:49 - PasswordLoginPage - Submit button clicked
+15:52:39,209  INFO pages.UserHomePage<strong>{1}</strong>:24 - Logger loaded for UserHomePage
+15:52:39,209  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+15:52:39,209  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+15:52:39,210  INFO pages.UserHomePage<strong>{1}</strong>:34 - UserHomePage - Loaded
+15:52:39,210  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+15:52:39,301  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+15:52:39,798  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+15:52:39,878  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
+15:52:39,878  INFO pages.UserHomePage<strong>{1}</strong>:40 - UserHomePage - Sending Hello user name
+15:52:39,878  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser
+17:48:41,764  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+17:48:41,800  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+17:48:41,801  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+17:48:54,202  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+17:48:54,202  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+17:48:54,203  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+17:48:58,121  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+17:48:58,123  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+17:48:58,124  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:48:58,727  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+17:48:58,728  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+17:48:58,748  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+17:48:58,748  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+17:48:58,802  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:49:01,334  INFO helpers.WaitHelper<strong>{1}</strong>:57 - WaitForTextInElement over
+17:49:01,367  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
+17:49:01,369  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+17:49:02,871  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+17:49:02,880  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser
+17:49:07,110  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:23 - Logger loaded for BrowserDriverHelper
+17:49:07,111  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:25 - Accessing webdriver properties
+17:49:07,112  INFO helpers.BrowserDriverHelper<strong>{1}</strong>:48 - Chrome Browser selected
+17:49:14,643  INFO helpers.UrlHelper<strong>{1}</strong>:18 - Logger loaded for UrlHelper
+17:49:14,643  INFO helpers.UrlHelper<strong>{1}</strong>:20 - Accessing URL properties
+17:49:14,644  INFO helpers.UrlHelper<strong>{1}</strong>:36 - URL Selected
+17:49:18,234  INFO pages.MainPage<strong>{1}</strong>:23 - Logger loaded for MainPage
+17:49:18,234  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+17:49:18,234  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:49:18,234  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+17:49:18,234  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+17:49:18,241  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:49:18,242  INFO pages.MainPage<strong>{1}</strong>:34 - Main Page - Loaded
+17:49:18,242  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+17:49:18,248  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+17:49:18,931  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+17:49:18,932  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:49:18,932  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+17:49:21,686  INFO pages.MainPage<strong>{1}</strong>:48 - Main Page - Signin link clicked
+17:49:21,687  INFO pages.EmailLoginPage<strong>{1}</strong>:24 - Logger loaded for EmailLoginPage
+17:49:21,687  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+17:49:21,687  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:49:21,688  INFO pages.EmailLoginPage<strong>{1}</strong>:38 - EmailLoginPage - Loaded
+17:49:21,688  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+17:49:21,702  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+17:49:22,026  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+17:49:22,027  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+17:49:22,421  INFO pages.EmailLoginPage<strong>{1}</strong>:45 - EmailLoginPage - Email entered
+17:49:22,421  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+17:49:24,729  INFO pages.EmailLoginPage<strong>{1}</strong>:50 - EmailLoginPage - Continue button clicked
+17:49:24,729  INFO pages.PasswordLoginPage<strong>{1}</strong>:25 - Logger loaded for PasswordLoginPage
+17:49:24,730  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+17:49:24,730  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:49:24,730  INFO pages.PasswordLoginPage<strong>{1}</strong>:38 - PasswordLoginPage - Loaded
+17:49:24,731  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+17:49:24,737  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+17:49:25,222  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+17:49:25,223  INFO helpers.OtMethodsHelper<strong>{1}</strong>:201 - Typing text in element
+17:49:25,431  INFO pages.PasswordLoginPage<strong>{1}</strong>:44 - PasswordLoginPage - Password entered
+17:49:25,431  INFO helpers.OtMethodsHelper<strong>{1}</strong>:196 - Clicking on element
+17:49:28,706  INFO pages.PasswordLoginPage<strong>{1}</strong>:49 - PasswordLoginPage - Submit button clicked
+17:49:28,707  INFO pages.UserHomePage<strong>{1}</strong>:24 - Logger loaded for UserHomePage
+17:49:28,707  INFO helpers.WaitHelper<strong>{1}</strong>:22 - Logger loaded for WaitHelper
+17:49:28,707  INFO helpers.OtMethodsHelper<strong>{1}</strong>:23 - Logger loaded for OtMethodsHelper
+17:49:28,707  INFO pages.UserHomePage<strong>{1}</strong>:34 - UserHomePage - Loaded
+17:49:28,708  INFO helpers.OtMethodsHelper<strong>{1}</strong>:27 - Getting title of the page
+17:49:28,778  INFO helpers.ScreenshotHelper<strong>{1}</strong>:20 - Logger loaded for ScreenshotHelper
+17:49:29,442  INFO helpers.ScreenshotHelper<strong>{1}</strong>:81 - Screenshot taken
+17:49:29,484  INFO helpers.OtMethodsHelper<strong>{1}</strong>:212 - Getting text from element
+17:49:29,485  INFO pages.UserHomePage<strong>{1}</strong>:40 - UserHomePage - Sending Hello user name
+17:49:29,485  INFO helpers.OtMethodsHelper<strong>{1}</strong>:90 - Closing browser

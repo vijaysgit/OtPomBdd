@@ -22,6 +22,7 @@ repositories {
 }
 
 dependencies {
+
     
     // https://mvnrepository.com/artifact/org.testng/testng
 	compile group: 'org.testng', name: 'testng', version: '7.1.0'
@@ -54,8 +55,7 @@ dependencies {
 	
 	// https://mvnrepository.com/artifact/commons-io/commons-io
 	compile group: 'commons-io', name: 'commons-io', version: '2.6'
-	
-	  
+		  
     
 }
 
